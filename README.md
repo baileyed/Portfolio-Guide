@@ -9,25 +9,26 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Data Processing
 
-| Project Link | Tools | Project Description | Libraries |
+| Project Link | Language | Project Description | Libraries |
 |---|---|---|---|
-| [Project Title](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Python | Description | Libraries |
+| [PIOMAS Processing](link) | Python | Script that is used to read raw binary PIOMAS datasets, apply a rotation matrix, and write the data into a usable nc file. | Libraries |
 
 ***
 
 # Data Analysis and Visualization
 
-| Project Link | Tools | Project Description | Libraries |
+| Project Link | Language | Project Description | Libraries |
 |---|---|---|---|
-| [Project Title](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Python | Description | Libraries |
+| [Time series Analysis](https://github.com/baileyed/timeseries-analysis) | R | This is a repository of my work for a graduate course in time series analysis with applications using seismological, paleoclimate, and historical climate data | N/A |
 
 ***
 
 # Numerical Modeling
 
-| Project Link | Tools | Project Description | Libraries |
+| Project Link | Language | Project Description | Libraries |
 |---|---|---|---|
-| [Project Title](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | Python | Description | Libraries |
+| [One-Dimensional Mixed-Layer Model](link) | Python | A graduate research project where I developed a numerical one-dimensional mixed-layer model for a partially ice-covered ocean to study the dynamic and thermodynamic processes in the upper portion of the Arctic Ocean | Pandas, Numpy, SciPy, etc. |
+| [Applied Numerical Methods](https://github.com/baileyed/applied-numerical-methods) | Matlab | This is a repository of my work for a graduate engineering/applied math course titled "Applied Numerical Methods for Algebraic Systems, Eigensystems, and Function Approximation." | N/A |
 
 
 ***
