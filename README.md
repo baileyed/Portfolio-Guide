@@ -1,6 +1,6 @@
 # Elizabeth's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my software portfolio, where I keep a repository of my scripts.
 
 ## Table of Contents
 - [Data Processing](#data-processing)
